@@ -1,0 +1,13 @@
+_deps/
+.vs/
+.vscode/
+CMakeFiles/
+Debug/
+myExe.dir/
+person.dir/
+scapix/
+x64/
+CMakeCache.txt
+*.vcxproj*
+*.cmake
+*.sln
