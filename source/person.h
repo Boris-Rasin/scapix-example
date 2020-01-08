@@ -1,6 +1,8 @@
 #include <string>
 #include <scapix/bridge/object.h>
 
+using namespace std;
+
 class Person : public scapix::bridge::object<Person>
 {
 private:
