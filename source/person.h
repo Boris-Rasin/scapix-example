@@ -1,4 +1,3 @@
-#include <string>
 #include <scapix/bridge/object.h>
 
 using namespace std;
